@@ -1,5 +1,4 @@
-TRIPLE X
-
+[TRIPLE X]
 
 This is a little game created in C++.
 
